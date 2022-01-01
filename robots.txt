@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://orangetechllc.github.io/orangetechllc/sitemap.xml
